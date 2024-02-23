@@ -1,2 +1,2 @@
-# pcto-valentini
-Laboratori dadattici per il progetto PCTO presso l'I.I.S. Castrolibero "Valentini-Majorana"
+# pcto
+Laboratori dadattici presso l'I.I.S. Castrolibero "Valentini-Majorana"
